@@ -1,4 +1,4 @@
-## Welcome to GitHub Pages
+## Hello PICO-8 Assignment: Kaily Luna
 
 You can use the [editor on GitHub](https://github.com/KailyLuna/hellopico8.github.io/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
 
